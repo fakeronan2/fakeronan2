@@ -2,7 +2,7 @@ Hey, I am fakeronan2 a Roblox developer with basic skills in building and script
 
 I have basic knowledge of Lua (from the dialect Luau.
 
-Free and open source components is at the core of some of my projects, I even make some of my old projects free and open source so that people can learn from it, and possiably continue it.
+Free software components is at the core of some of my projects, I even make some of my old projects free software (free as in freedom and free things) so that people can learn from it, and possiably continue it.
 
 I use the GNU/Linux operating system, non of my devices run Windows or MacOS!
 
